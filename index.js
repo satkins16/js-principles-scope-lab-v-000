@@ -18,4 +18,6 @@ function changeLeastFavoriteCustomer () {
   return leastFavoriteCustomer = 'rick'
 }
 
+function attemptTwoFavoriteCustomers () {
 
+}
